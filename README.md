@@ -1,7 +1,7 @@
-[Staffit](https://www.staffit.co)- test your Symfony2 skills
+[Staffit](https://www.staffit.co) - test your Symfony2 skills
 ===================================
 
-Welcome to the Symfony skill assessment by Staffit. As you can see, this git repository contains a raw symfony2 project. During this test, you can access all your usuals work ressources : feel free to use documentations, stackoverflow or to google anything ! The purpose of this test is to catch a glimpse of your skills in real conditions. 
+Welcome to the Symfony skill assessment by Staffit. As you can see, this git repository contains a raw symfony2 project. During this test, you can access all your usuals work ressources : feel free to use the [documentation](http://symfony.com/doc/current/index.html), Stackoverflow or to google anything ! The purpose of this test is to catch a glimpse of your skills in real conditions. 
 
 What's your job ?
 -----------------
