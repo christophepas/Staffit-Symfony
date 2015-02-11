@@ -1,69 +1,27 @@
-Symfony Standard Edition
-========================
+Staffit - test your Symfony2 skills
+===================================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony2
-application that you can use as the skeleton for your new applications.
+Welcome to the Symfony skill test by Staffit. As you can see, this git rep solely contains a raw symfony2 project. You're in charge to transform it in a working project.
 
-For details on how to download and get started with Symfony, see the
-[Installation][1] chapter of the Symfony Documentation.
+During this test, you can access all your usuals work ressources : feel free to use documentations, stackoverflow or to google anything ! The purpose of this test is to catch a glimpse of your skills in real conditions. 
 
-What's inside?
---------------
+What's your job ?
+-----------------
+In no more than 1 hour, you will have to create a web app allowing veterinarians to deal with their appointments. Never thought you would have to do that once in your life, did you ? 
 
-The Symfony Standard Edition is configured with the following defaults:
+The 2 main following features are mandatories: 
+- The veterinarian can visualize the appointments and sort them.
+- His assistants can create new appointments. 
 
-  * An AppBundle you can use to start coding;
+Your goal is to create the most clean and maintanable system, within the allocated time.
 
-  * Twig as the only configured template engine;
+Process
+-------
+1. Fork me
+2. Write your code and nail it !
+3. Push the final result and send a mail @ [symfony@staffit.co](mailto:symfony@staffit.co)
 
-  * Doctrine ORM/DBAL;
+4. Once your project done, we will send you links to 3 solvings of the same problem. You will have to assess them on a given scale. **Your ability to assess them is part of your assessment**.
 
-  * Swiftmailer;
-
-  * Annotations enabled for everything.
-
-It comes pre-configured with the following bundles:
-
-  * **FrameworkBundle** - The core Symfony framework bundle
-
-  * [**SensioFrameworkExtraBundle**][6] - Adds several enhancements, including
-    template and routing annotation capability
-
-  * [**DoctrineBundle**][7] - Adds support for the Doctrine ORM
-
-  * [**TwigBundle**][8] - Adds support for the Twig templating engine
-
-  * [**SecurityBundle**][9] - Adds security by integrating Symfony's security
-    component
-
-  * [**SwiftmailerBundle**][10] - Adds support for Swiftmailer, a library for
-    sending emails
-
-  * [**MonologBundle**][11] - Adds support for Monolog, a logging library
-
-  * [**AsseticBundle**][12] - Adds support for Assetic, an asset processing
-    library
-
-  * **WebProfilerBundle** (in dev/test env) - Adds profiling functionality and
-    the web debug toolbar
-
-  * **SensioDistributionBundle** (in dev/test env) - Adds functionality for
-    configuring and working with Symfony distributions
-
-  * [**SensioGeneratorBundle**][13] (in dev/test env) - Adds code generation
-    capabilities
-
-All libraries and bundles included in the Symfony Standard Edition are
-released under the MIT or BSD license.
-
-Enjoy!
-
-[1]:  http://symfony.com/doc/2.6/book/installation.html
-[6]:  http://symfony.com/doc/2.6/bundles/SensioFrameworkExtraBundle/index.html
-[7]:  http://symfony.com/doc/2.6/book/doctrine.html
-[8]:  http://symfony.com/doc/2.6/book/templating.html
-[9]:  http://symfony.com/doc/2.6/book/security.html
-[10]: http://symfony.com/doc/2.6/cookbook/email.html
-[11]: http://symfony.com/doc/2.6/cookbook/logging/monolog.html
-[12]: http://symfony.com/doc/2.6/cookbook/assetic/asset_management.html
-[13]: http://symfony.com/doc/2.6/bundles/SensioGeneratorBundle/index.html
+Sit back and relax ! 
+Our product is made with love by developers for developers, and we love when they [drop us a line](mailto:contact@staffit.co)!
